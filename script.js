@@ -32,3 +32,4 @@ function showMark() {
     calculator();
 }
 
+showMark();
